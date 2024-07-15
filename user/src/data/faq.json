@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "title": "What is your design process?",
+            "answer": "Our design process starts with understanding the client's goals and requirements..."
+        },
+        {
+            "title": "How long does a project take?",
+            "answer": "The duration of a project depends on its complexity and scope. On average, it takes about 4-6 weeks."
+        },
+        {
+            "title": "What are your rates?",
+            "answer": "Our rates are competitive and depend on the project's complexity. Please contact us for a detailed quote."
+        }
+    ]
+}
